@@ -1,17 +1,17 @@
 ### Hi there 👋
-I'm still working here ;)
+Marcos here, 
 
-<!--
-**marcosadsjunior/marcosadsjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nascido em 1992, pai de menina, apreciador de um bom café e jogos (carinho especial pelos retro games) e morador do Distrito Federal no Brasil.
 
-Here are some ideas to get you started:
+- 🤔 Depois de alguns anos voltei para a Universidade de Brasília UnB-Gama focado em me formar como engenheiro eletrônico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Amazon Web Services platform
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Trabalhando como analista de TI em ambiente produtivo na CAIXA Econômica Federal desde 2012.
+
+- 🎓 Formado em Analise e Desenvolvimento de Software pelo UniCeub e pós-graduado em Perícia Digital pela Universidade Católica e em Gerenciamento de Projetos pelo UniCeub.
+
+- ⚡ Proprietário de uma linda VW Kombi 1993 da qual estou transformando em uma casa sobre rodas.
+
+📫 How to reach me:
+    https://www.youtube.com/@eusouhobbista
+    https://instagram.com/marcosadsjunior
+    https://www.linkedin.com/in/marcosadsjunior/
