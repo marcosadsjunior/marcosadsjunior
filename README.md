@@ -11,7 +11,7 @@ Nascido em 1992, pai de menina, apreciador de um bom café e jogos (carinho espe
 
 - ⚡ Proprietário de uma linda VW Kombi 1993 da qual estou transformando em uma casa sobre rodas.
 <p align="left">
-📫 How to reach me:
+📫 How to reach me:<br/>
     - https://www.youtube.com/@eusouhobbista <br/>
     - https://instagram.com/marcosadsjunior <br/>
     - https://www.linkedin.com/in/marcosadsjunior/ <br/>
