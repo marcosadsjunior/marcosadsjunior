@@ -12,16 +12,14 @@ Nascido em 1992, pai de menina, apreciador de um bom café e jogos (carinho espe
 - ⚡ Proprietário de uma linda VW Kombi 1993 da qual estou transformando em uma casa sobre rodas.
 <p align="left">
 📫 How to reach me:
-    
+  
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marcosadsjunior@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosadsjunior/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/marcosadsjunior" alt="Instagram"/></a>
-  <a href="#" title="YouTube">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@eusouhobbista" alt="YouTube"/></a>
-    
-
-</p><br>
+<a href="mailto:marcosadsjunior@gmail.com" title="Gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/marcosadsjunior/" title="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosadsjunior/" alt="LinkedIn"/></a>
+<a href="https://instagram.com/marcosadsjunior" title="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/marcosadsjunior" alt="Instagram"/></a>
+<a href="https://www.youtube.com/@eusouhobbista" title="YouTube">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@eusouhobbista" alt="YouTube"/></a>
+ </p>
